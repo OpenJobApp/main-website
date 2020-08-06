@@ -1,5 +1,5 @@
 [![Gitter](https://badges.gitter.im/job-org-official/PSoC.svg)](https://gitter.im/job-org-official/PSoC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
+[![HitCount](http://hits.dwyl.com/storecloudify/ComingSoon.svg)](http://hits.dwyl.com/storecloudify/ComingSoon)
 # main-website
 Main website. https://www.openjobapp.org/
 
